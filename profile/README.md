@@ -11,5 +11,5 @@ As an important part of OpenXLab from Shanghai Artificial Intelligence Laborator
 OpenDILab contributes to integrating the latest and most comprehensive achievements in academia, assisting academic research, and solving complex problems which are difficult to standardize in the industry. OpenDILab hopes to promote the leap of AI development from perceptual intelligence to decision intelligence. OpenDILab hopes promote the integration and innovation of industry, academia and research.OpenDILab hopes to lead AI technology to a higher level of general intelligence era.
 
 <div align=center>
-<img src=https://github.com/opendilab/.github/blob/main/opendilab%E6%9E%B6%E6%9E%84%E5%9B%BE.png>
+<img src=https://github.com/opendilab/.github/blob/main/profile/OpenDILab.feature.png>
 </div>
