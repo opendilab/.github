@@ -3,7 +3,7 @@
 <img src=https://github.com/opendilab/.github/blob/main/opendilab_banner.png>
 </div>
 
-OpenDILab is the **first decision intelligence platform** covering **the most comprehensive/extensive algorithms and applications both in academia and industry.** Since July 2021, OpenDILab has been officially open-sourced at the **World Artificial Intelligence Conference(WAIC)** opening ceremony. 
+OpenDILab is the **first decision intelligence platform** covering **the most comprehensive algorithms and applications both in academia and industry.** Since July 2021, OpenDILab has been officially open-sourced at the **World Artificial Intelligence Conference(WAIC)** opening ceremony. 
 
 
 As an important part of OpenXLab from Shanghai AI Laboratory, OpenDILab features a complete set of training and deployment frameworks for decision intelligence, consisting of the **application ecological layer, algorithm abstraction layer, distributed management layer, and distributed execution layer.** OpenDILab also supports full-scale scheduling system optimization from a single machine to the joint training of thousands of CPU/GPU.
