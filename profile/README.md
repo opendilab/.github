@@ -9,7 +9,7 @@ OpenDILab is the **first decision intelligence platform** covering **the most co
 As an important part of OpenXLab from Shanghai AI Laboratory, OpenDILab features a complete set of training and deployment frameworks for decision intelligence, consisting of the **application ecological layer, algorithm abstraction layer, distributed management layer, and distributed execution layer.** OpenDILab also supports full-scale scheduling system optimization from a single machine to the joint training of thousands of CPU/GPU.
 
 <div align=center>
-<img src=https://github.com/opendilab/.github/blob/main/profile/OpenDILab.feature.png>
+<img src=https://github.com/opendilab/.github/blob/main/profile/OpenDILab%20feature%201.0.png>
 </div>
 <br />
 
